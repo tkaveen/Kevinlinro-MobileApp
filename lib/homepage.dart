@@ -77,7 +77,7 @@ class _homepageState extends State<homepage>
                       height: 85,
                       margin: EdgeInsets.fromLTRB(15, 0, 20, 0),
                       child: Text(
-                        'LINRO',
+                        'LINROOOO',
                         style: TextStyle(
                             fontSize: 75.0,
                             color: Colors.black,
